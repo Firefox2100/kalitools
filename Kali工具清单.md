@@ -102,8 +102,8 @@
 
 |[Reverse Engineering](Reverse-Engineering/list.md)||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[apktool](Reverse-Engineering/apktool.md)|dex2jar|diStorm3|edb-debugger|jad|javasnoop|
-|JD-GUI|OllyDbg|smali|Valgrind|YARA||
+|[apktool](Reverse-Engineering/apktool.md)|[dex2jar](Reverse-Engineering/dex2jar.md)|diStorm3|edb-debugger|jad|javasnoop|
+|JD-GUI|OllyDbg|[smali](Reverse-Engineering/smali.md)|Valgrind|YARA||
 
 
 |Reporting Tools||||||

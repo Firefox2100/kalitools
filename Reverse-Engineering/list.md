@@ -2,6 +2,6 @@
 
 |Reverse Engineering||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[apktool](apktool.md)|dex2jar| diStorm3| edb-debugger| jad|javasnoop|
-|JD-GUI|OllyDbg|smali|Valgrind|YARA||
+|[apktool](apktool.md)|[dex2jar](dex2jar.md)| diStorm3| edb-debugger| jad|javasnoop|
+|JD-GUI|OllyDbg|[smali](smali.md)|Valgrind|YARA||
 
